@@ -1,11 +1,24 @@
 body {
-  width: 200px;
-  padding: 10px;
+  width: 250px;
+  height: 500px;
+  background: #850087;
+  background: linear-gradient(43deg, rgba(133, 0, 135, 1) 9%, rgba(8, 2, 8, 1) 42%, rgba(0, 0, 0, 1) 100%);
   font-family: Arial, sans-serif;
+  
 }
 
 button {
   width: 100%;
-  padding: 10px;
   cursor: pointer;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+.Text2 {
+    text-align: center;
 }
